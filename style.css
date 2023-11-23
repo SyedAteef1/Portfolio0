@@ -539,6 +539,31 @@ background-color: rgb(0, 255, 213);
     height: 100vh;
     
 }
-
+#quote{
+    margin-top: -100px;
+   margin-left: 350px;
+    width: 700px;
+    height: 300px;
+    
+}
+#upquote img{
+    position: relative;
+    width: 70px;
+    height: 50px;
+    top: -10px;
+    left: -100px;
+}
+#downquote img{
+    position: relative;
+    width: 70px;
+    height: 50px;
+    rotate: 180deg;
+    top: 20px;
+    left: 700px;
+}
+#contquote{
+    color: #fff;
+    z-index: 120;
+}
 
 
